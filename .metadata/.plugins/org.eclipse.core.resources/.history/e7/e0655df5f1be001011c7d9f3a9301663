@@ -1,0 +1,16 @@
+/* 
+* Nombre: José Manuel López Montesinos 
+* Curso: 1º DAW
+* Descripción: Crea un programa que pida la usuario dos valores N y M y luego cree un array de tamaño N que contenga M en todas sus posiciones.
+Luego muestra el array por pantalla.
+*/
+package ejercicio15;
+
+public class Ejercicio15 {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

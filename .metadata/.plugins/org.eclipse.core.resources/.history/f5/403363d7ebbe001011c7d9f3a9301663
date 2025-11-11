@@ -1,0 +1,15 @@
+/* 
+* Nombre: José Manuel López Montesinos 
+* Curso: 1º DAW
+* Descripción: Crea un programa que permita al usuario almacenar una secuencia aritmética en un array y luego mostrarla.
+*/
+package ejercicio13;
+
+public class Ejercicio13 {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
